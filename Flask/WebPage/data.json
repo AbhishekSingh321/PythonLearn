@@ -1,0 +1,59 @@
+{
+  "Alex": {
+    "age": 21,
+    "class": "TE",
+    "image": "https://plus.unsplash.com/premium_photo-1672239496290-5061cfee7ebb?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+    "posts": [
+      {
+        "post_image": "https://plus.unsplash.com/premium_photo-1673734625395-1b8c4e3942cd?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+        "description": "Enjoying a sunny day at the park!",
+        "likes": 128,
+        "comments": 15
+      },
+      {
+        "post_image": "https://plus.unsplash.com/premium_photo-1672239496338-d0e361e53945?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=687",
+        "description": "Workout session complete 💪",
+        "likes": 95,
+        "comments": 8
+      }
+    ]
+  },
+  "Sara": {
+    "age": 22,
+    "class": "BE",
+    "image": "https://media.istockphoto.com/id/1359311977/photo/cute-little-indian-girl-stock-photo.jpg?s=2048x2048&w=is&k=20&c=-zHrGL_hW6PMsc09I1R9bN939ubnV03c2Gs9igiD91M=",
+    "posts": [
+      {
+        "post_image": "https://media.istockphoto.com/id/1410514991/photo/happy-brother-and-sister-for-raksha-bandhan-pictures.jpg?s=1024x1024&w=is&k=20&c=NCyU0GRU3It0xH32A12yMYeHB5LY5FDXpheOV-khD0o=",
+        "description": "Weekend fun with friends ☕🥐",
+        "likes": 210,
+        "comments": 34
+      },
+      {
+        "post_image": "https://media.istockphoto.com/id/1359312180/photo/cute-little-indian-girl-stock-photo.jpg?s=1024x1024&w=is&k=20&c=dDckgQr6w8CCeImeCM6Zouo5inlOTGLSMNC-7lmYLDE=",
+        "description": "Feeling grateful for small moments 💕",
+        "likes": 176,
+        "comments": 20
+      }
+    ]
+  },
+  "Vyom": {
+    "age": 20,
+    "class": "SE",
+    "image": "https://media.istockphoto.com/id/177383755/photo/indian-businessman.jpg?s=1024x1024&w=is&k=20&c=4tsW0e_QWRQ6qTxEznMMADuhmLmUQ9_sAFY_GJKgLxk=",
+    "posts": [
+      {
+        "post_image": "https://media.istockphoto.com/id/177390307/photo/indian-businessman.jpg?s=1024x1024&w=is&k=20&c=a52aBvhitpRiFAqrdtgWFl8LqADqwcMV4OqTjFIT7BQ=",
+        "description": "Late night coding grind 💻☕",
+        "likes": 150,
+        "comments": 25
+      },
+      {
+        "post_image": "https://media.istockphoto.com/id/2167459653/photo/mount-nanda-devi-with-three-hikers.jpg?s=1024x1024&w=is&k=20&c=x-O_wc9yKOVEZBh7ThhSaRIoqRB99T4XBlIFo2QEYnI=",
+        "description": "Hiking adventures in the mountains 🏔️",
+        "likes": 187,
+        "comments": 30
+      }
+    ]
+  }
+}

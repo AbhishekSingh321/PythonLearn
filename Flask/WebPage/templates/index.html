@@ -4,10 +4,27 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+  <link rel="stylesheet" href="static/index.css">
 </head>
 <body>
-  <h1>Hello {{n}}</h1>
-  <p>Age {{d.age}}</p>
-  <p>Class {{d.class}}</p>
+  <div class="card">
+    <img src="{{d.image}}" alt="">
+    <div>
+      <h1>@ {{n}}</h1>
+      <p>Age {{d.age}}</p>
+      <p>Class {{d.class}}</p>
+    </div>
+  </div>
+  <div class="posts">
+    {% for post in d.posts %}
+      <div class="post">
+        <img src="{{ post.post_image }}" alt="Post image">
+        <div class="post-info">
+          <p class="desc">{{ post.description }}</p>
+          <p>❤️ {{ post.likes }} Likes &nbsp; 💬 {{ post.comments }} Comments</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
 </body>
 </html>
