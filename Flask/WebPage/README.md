@@ -66,3 +66,12 @@ The `output/` folder contains example screenshots/images produced during develop
 
 - If the server does not start, confirm you used the correct Python executable and that Flask is installed in the active environment.
 ---
+## Refereces
+### YT-Channel(Raunak Jhoshi)
+- https://youtube.com/playlist?list=PLT_6xP6jAq8j_m9OWFWlx1snf5uco6_m5&si=kRg-PCYM4jRg_-fR
+---
+### Jinja Template
+- https://jinja.palletsprojects.com/en/stable/templates/
+---
+### flask
+- https://flask.palletsprojects.com/en/stable/quickstart/#a-minimal-application
