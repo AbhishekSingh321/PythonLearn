@@ -10,8 +10,10 @@ voices = engine.getProperty('voices')
 for i, voice in enumerate(voices):
     print(i, voice.name)
 
-engine.setProperty('voice', voices[1].id)
+engine.setProperty('voice', voices[0].id)
 
+text="Hello, welcome to text to speech learning"
 
-engine.say("Hello, welcome to text to speech learning")
+engine.say(text)
+engine.save_to_file(text, 'voice_tts1.mp3')
 engine.runAndWait()
