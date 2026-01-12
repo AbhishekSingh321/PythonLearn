@@ -4,3 +4,6 @@ pyttsx3
 
 #tts2.py
 gTTS
+
+#tts3.py
+edge-tts
