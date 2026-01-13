@@ -7,3 +7,7 @@ gTTS
 
 #tts3.py
 edge-tts
+
+#tts4.py
+dotenv
+elevenlabs
