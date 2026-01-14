@@ -13,7 +13,7 @@ async def main():
 
 asyncio.run(main())
 
-#---------------------------Mine top Best Voices--------------------------------------------
+#---------------------------My Top Best Voices--------------------------------------------
 # 1.en-GB-SoniaNeural
 # 2.en-US-EmmaMultilingualNeural
 # 3.en-US-BrianNeural
